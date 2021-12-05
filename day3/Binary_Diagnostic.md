@@ -32,7 +32,6 @@ The epsilon rate is calculated in a similar way; rather than use the most common
 
 Use the binary numbers in your diagnostic report to calculate the gamma rate and epsilon rate, then multiply them together. What is the power consumption of the submarine? (Be sure to represent your answer in decimal, not binary.)
 
-Your puzzle answer was 1082324.
 ## --- Part Two ---
 
 Next, you should verify the life support rating, which can be determined by multiplying the oxygen generator rating by the CO2 scrubber rating.
@@ -67,5 +66,3 @@ Then, to determine the CO2 scrubber rating value from the same example above:
 Finally, to find the life support rating, multiply the oxygen generator rating (23) by the CO2 scrubber rating (10) to get 230.
 
 Use the binary numbers in your diagnostic report to calculate the oxygen generator rating and CO2 scrubber rating, then multiply them together. What is the life support rating of the submarine? (Be sure to represent your answer in decimal, not binary.)
-
-Your puzzle answer was 1353024.
