@@ -1,5 +1,6 @@
 # Some things render better ON the [website for the event](https://adventofcode.com/2021/day/2)
 <hr/>
+
 ## --- Part One ---
 Now, you need to figure out how to pilot this thing.
 
